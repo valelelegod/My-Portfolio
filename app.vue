@@ -29,7 +29,7 @@
              charset: 'utf-8',
              lang: 'en',
              meta: [
-                 { name: 'description', content: 'content="Full Stack Developer at TechBolide. Currently working on Ionic projects. Custom UX/UI Design, Front-end and Back-end Development."' }
+                 { name: 'description', content: 'Full Stack Developer at TechBolide. Currently working on Ionic projects. Custom UX/UI Design, Front-end and Back-end Development.' }
              ],
              htmlAttrs: { lang: 'en' }
          })
